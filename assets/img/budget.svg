@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#E3F4FF"/>
+  <circle cx="660" cy="120" r="70" fill="#FDEEE2"/>
+  <path d="M0 470 Q200 380 400 450 T800 420 V600 H0 Z" fill="#02A1FF" opacity="0.25"/>
+  <path d="M0 520 Q220 450 420 510 T800 490 V600 H0 Z" fill="#004E7F" opacity="0.18"/>
+  <g fill="none" stroke="#004E7F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+    <rect x="310" y="190" width="180" height="140" rx="16"/>
+    <circle cx="360" cy="235" r="16"/>
+    <path d="M320 310 L385 260 L430 295 L455 275 L480 300"/>
+  </g>
+  <text x="400" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="600" fill="#004E7F">Platzhalterbild: Das persönliche Budget</text>
+</svg>
